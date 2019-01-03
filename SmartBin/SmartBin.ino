@@ -1,7 +1,7 @@
 #include "SmartBin.hpp"
 
 /*
- * Name:		SmartBin.ino
+ * Name:	SmartBin.ino
  * Created:	11/11/2018 11:34:12 PM
  * Author:	Vladimir Antonyan
  */

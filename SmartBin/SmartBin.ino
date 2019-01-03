@@ -6,14 +6,14 @@
  * Author:	Vladimir Antonyan
  */
 
-SmartBin& smartbin_ref = SmartBin::getInstance();
+SmartBin& smartbinRef = SmartBin::getInstance();
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-	smartbin_ref.init();
+	smartbinRef.init();
 }
 
 // the loop function runs over and over again until power down or reset
 void loop() {
-	smartbin_ref.run();
+	smartbinRef.run();
 }

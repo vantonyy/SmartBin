@@ -1,6 +1,6 @@
 ![github-small](https://github.com/vantonyy/SmartBin/blob/master/Docs/Unites.png?raw=true)
 
-## Modules
+# Modules
     Arduino MEGA 2560
     SIM900 GSM/GPRS module
     Ultrasonic sensors

@@ -1,3 +1,8 @@
-# SmartBin
-
 ![github-small](https://github.com/vantonyy/SmartBin/blob/master/Docs/Unites.png?raw=true)
+
+# Modules
+Arduino Mega 2560.
+SIM900 GSM/GPRS module.
+Ultrasonic sensors.
+I2C LCD 20x4 display.
+4x4 keypad

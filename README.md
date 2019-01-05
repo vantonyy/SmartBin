@@ -15,4 +15,4 @@
 
 # Keypad 4x4 Connections:
       The keypad has 8 pins, 4 of them are for the rows and other 4 pin for the columns.
-      The Keypad's pins will be connected respectively to the Digital 1-2-3-4-5-6-7-8 pin of the Arduino.
+      The Keypad's pins will be connected respectively to the Digital 2-3-4-5-6-7-8-9 pin of the Arduino.

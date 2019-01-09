@@ -1,6 +1,8 @@
 ![github-small](https://github.com/vantonyy/SmartBin/blob/master/Docs/Unites.png?raw=true)
 
-# Used Hardwares:
+# Software:
+    * Arduino IDE
+# Hardware:
     * Arduino MEGA 2560
     * SIM900 GSM/GPRS module
     * Ultrasonic sensors

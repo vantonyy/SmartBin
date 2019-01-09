@@ -1,14 +1,14 @@
 ![github-small](https://github.com/vantonyy/SmartBin/blob/master/Docs/Unites.png?raw=true)
 
 # Software:
-    - Arduino IDE
+ - Arduino IDE
 # Hardware:
  - Arduino MEGA 2560
-    - SIM900 GSM/GPRS module
-    - Ultrasonic sensors
-    - I2C LCD 20x4 display
-    - 4x4 keypad
-    - 5v power supplier
+ - SIM900 GSM/GPRS module
+ - Ultrasonic sensors
+ - I2C LCD 20x4 display
+ - 4x4 keypad
+ - 5v power supplier
     
 ## LCD 20x4 Connections:
       The LCD has 4 pins (GND, VCC, SDA, SCL)

@@ -3,7 +3,7 @@
 # Software:
     - Arduino IDE
 # Hardware:
-    - Arduino MEGA 2560
+ - Arduino MEGA 2560
     - SIM900 GSM/GPRS module
     - Ultrasonic sensors
     - I2C LCD 20x4 display

@@ -1,4 +1,4 @@
-![github-small](https://github.com/vantonyy/SmartBin/blob/master/Docs/Unites.png?raw=true)
+![github-small](https://github.com/vantonyy/SmartBin/blob/master/Docs/Hardwares.png?raw=true)
 # Website: [smartbin.am](http://smartbin.am)
 
 # Software:
